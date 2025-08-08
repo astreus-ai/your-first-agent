@@ -1,4 +1,4 @@
-# Your First Agent - Astreus AI Example
+# Your First Agent
 
 This project is a simple example to create your first AI agent using the Astreus AI framework.
 
@@ -27,7 +27,6 @@ npm run dev
 ## Project Structure
 
 - `index.ts` - Main agent code
-- `.env` - Environment variables (not included in git)
 - `.env.example` - Environment variables template
 - `package.json` - Project dependencies
 - `tsconfig.json` - TypeScript configuration
@@ -72,5 +71,5 @@ You can extend this basic example with:
 
 ## More Information
 
-- [Astreus AI Documentation](https://docs.astreus.ai)
+- [Astreus AI Documentation](https://astreus.org/docs)
 - [GitHub Repository](https://github.com/astreus-ai/astreus)

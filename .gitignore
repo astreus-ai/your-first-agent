@@ -28,6 +28,9 @@ build/
 .idea/
 *.swp
 *.swo
+.claude
+.cursor
+.codacy
 
 # OS
 .DS_Store

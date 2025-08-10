@@ -12,11 +12,11 @@ async function main() {
   });
 
   // Create and execute a task
-  const task = await (agent as any).createTask({
+  const task = await agent.createTask({
     prompt: "Hello, introduce yourself"
   });
 
-  const result = await (agent as any).executeTask(task.id);
+  const result = await agent.executeTask(task.id);
   console.log(result.response);
 }
 
